@@ -1,31 +1,30 @@
-# dormitory
+# 宿舍管理系统
+idea版本：[https://gitee.com/mackhu/DormitoryManager](https://gitee.com/mackhu/DormitoryManager)
+#### 开发环境：
 
-#### 介绍
-{**以下是码云平台说明，您可以替换此简介**
-码云是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+> 开发工具:eclipse Java环境：jdk1.8以上 服务器软件：tomcat8.0 数据库：MySQL8.0.17
+> 前端：layui 后端：SSM框架
 
-#### 软件架构
-软件架构说明
+系统模块：学生管理，班级管理，宿舍管理，卫生管理，访客管理，管理员管理
+项目结构：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200703220416249.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25hdW15,size_16,color_FFFFFF,t_70 =300x400)
 
+##### 1.学生管理：
+查询学生信息（分页查询）
 
-#### 安装教程
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0703/221257_2d5df827_7347710.png)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+##### 2.班级管理（对班级的增删改查）
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0703/221258_c14427dd_7347710.png)
 
-#### 使用说明
+##### 3.宿舍管理（对宿舍信息的增删改查）
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0703/221258_670fbf60_7347710.png)
 
-#### 参与贡献
+##### 4.管理员管理（管理员的信息管理）
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![在这里插入图片描述](https://images.gitee.com/uploads/images/2020/0703/221258_4386cdf7_7347710.png)
 
-
+```bash
+,,,,,,,就不一一列举了，哈哈！！！
+```
