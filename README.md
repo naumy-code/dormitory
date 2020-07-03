@@ -5,6 +5,9 @@ idea版本：[https://gitee.com/mackhu/DormitoryManager](https://gitee.com/mackh
 个人博客：[https://blog.csdn.net/naumy](https://blog.csdn.net/naumy)
 
 个人GitHub地址：[https://github.com/naumy-code](https://github.com/naumy-code).
+
+链接：  [https://pan.baidu.com/s/1HIFWDAVGiKMYCbhy1TA9Mw](https://pan.baidu.com/s/1HIFWDAVGiKMYCbhy1TA9Mw).
+提取码：w0h1
 #### 开发环境：
 
 > 开发工具:eclipse Java环境：jdk1.8以上 服务器软件：tomcat8.0 数据库：MySQL8.0.17
