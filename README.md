@@ -1,5 +1,7 @@
 # 宿舍管理系统
 idea版本：[https://gitee.com/mackhu/DormitoryManager](https://gitee.com/mackhu/DormitoryManager)
+个人博客：[https://blog.csdn.net/naumy](https://blog.csdn.net/naumy)
+个人GitHub地址：https://github.com/naumy-code
 #### 开发环境：
 
 > 开发工具:eclipse Java环境：jdk1.8以上 服务器软件：tomcat8.0 数据库：MySQL8.0.17
