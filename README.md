@@ -8,7 +8,7 @@ idea版本：[https://gitee.com/mackhu/DormitoryManager](https://gitee.com/mackh
 系统模块：学生管理，班级管理，宿舍管理，卫生管理，访客管理，管理员管理
 项目结构：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200703220416249.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25hdW15,size_16,color_FFFFFF,t_70 =300x400)
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0703/221457_342b4363_7347710.png "屏幕截图.png")
 
 ##### 1.学生管理：
 查询学生信息（分页查询）
